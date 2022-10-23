@@ -14,7 +14,7 @@ const Home = () => {
                         I'm a Full Stack Developer
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        Building and designing Software is my passion.<br></br>
+                        Building and designing software is my passion.<br></br>
                         Currently I love to work on web applications using technologies such as MongoDB, Express, React, Node.JS, (MERN) and more. I prefer Front-End Development, but continue to educate myself about web development & applications. 2022 General Assembly Alumni.
                     </p>
 
