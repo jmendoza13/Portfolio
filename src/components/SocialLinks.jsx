@@ -23,17 +23,7 @@ const SocialLinks = () => {
         ),
         href: "https://github.com/jmendoza13",
       },
-      {
-        id: 4,
-        child: (
-          <>
-            Resume <BsFillPersonLinesFill size={30} />
-          </>
-        ),
-        href: "/resume.pdf",
-        style: "rounded-br-md",
-        download: true,
-      },
+      
     ];
   
     return (
