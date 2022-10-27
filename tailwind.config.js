@@ -19,5 +19,6 @@ module.exports = {
       screen: 'calc(var(--vh) * 100)',
     }), 
   },
+  
   plugins: [],
 }
